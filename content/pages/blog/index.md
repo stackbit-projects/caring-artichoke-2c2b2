@@ -9,7 +9,6 @@ sections:
     title: Latest blog posts
     posts:
       - content/pages/blog/post-three.md
-      - content/pages/blog/postlayout-mc9f2ycic.md
       - content/pages/blog/post-two.md
       - content/pages/blog/post-one.md
     styles:
